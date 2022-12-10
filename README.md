@@ -37,7 +37,7 @@ In my spare time I also volunteer with [Orbit NTNU](https://orbitntnu.com/)'s Em
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SigJig&theme=transparent&exclude_repo=ziglings)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SigJig&theme=transparent&exclude_repo=ziglings&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SigJig/SigJig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
