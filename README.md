@@ -5,7 +5,7 @@ Studying electrical engineering at NTNU Trondheim, with a passion for software d
 compilers and embedded. I have worked on quite a few hobby projects over the years, having started writing software some time in 2017. These projects can
 be viewed on this github page and although most of them are not finished, they should give a good insight into my capabilties as a developer.
 
-In my spare time I also volunteer with [Orbit NTNU](https://orbitntnu.com/)'s Embedded Software group, writing and maintaining software for Orbit's own satellites.
+In my spare time I also volunteer with [Orbit NTNU](https://orbitntnu.com/)'s Embedded Software group, writing and maintaining software for Orbit's satellites, designed and developed in-house.
 
 ### Selected projects:
 * Arma 3 related projets: When I first started out developing, I was writing scripts for an Arma 3 server. This lead to me creating some tools to help me navigate through Arma 3's severely flawed ecosystem:
