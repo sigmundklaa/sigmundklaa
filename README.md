@@ -3,7 +3,7 @@
 
 Studying electrical engineering at NTNU Trondheim, with a passion for software development, particularly system programming such as operating systems,
 compilers and embedded. I have worked on quite a few hobby projects over the years, having started writing software some time in 2017. These projects can
-be viewed on this github page and although most of them are not finished, they should give a good insight into my capabilties as a developer.
+be viewed on this github page.
 
 In my spare time I also volunteer with [Orbit NTNU](https://orbitntnu.com/)'s Embedded Software group, writing and maintaining software for Orbit's satellites, designed and developed in-house.
 
